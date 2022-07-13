@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-- 👨‍💻 Life Hack: share = knowledge ? Happiness : NULL
+- 👨‍💻 Life Hack: success = yours ? whenyoutry() : results 👀
 
 - ⚡ Fun fact: I waste most of my time playing Valorant
 
