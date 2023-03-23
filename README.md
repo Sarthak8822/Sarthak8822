@@ -53,6 +53,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sarthak8822&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak8822&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak8822&" alt="sarthak" />
 </div>
 
