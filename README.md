@@ -23,7 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-- 👨‍💻 Life Hack: if(today.self > yetreday.self) {print("You're on right path!")} 👀
+- 👨‍💻 Life Hack: import 'positivity' from 'life';
+setAttitude(positive); 👀
 
 - ⚡ Fun fact: I waste most of my time playing Valorant
 
